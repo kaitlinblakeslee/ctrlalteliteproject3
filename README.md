@@ -63,6 +63,7 @@ ctrlalteliteproject3/
 2) FinalAnalysis.ipynb – for model training and evaluation
 
 ### 5. Evaluation Metric
+- OUTPUT folder has EDA plots, data dictionary, and visualizations from model results
 - Accuracy
 
 ### 6. Acknowledgements
