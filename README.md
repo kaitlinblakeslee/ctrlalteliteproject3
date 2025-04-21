@@ -60,7 +60,7 @@ ctrlalteliteproject3/
 
 ### 4. Run Analysis Notebooks
 1) FinalEDA.ipynb – for exploratory data analysis
-2) 02_Modeling_Pneumonia_Detection.ipynb – for model training and evaluation
+2) FinalAnalysis.ipynb – for model training and evaluation
 
 ### 5. Evaluation Metric
 - Accuracy
