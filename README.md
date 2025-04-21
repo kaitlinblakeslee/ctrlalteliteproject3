@@ -22,7 +22,7 @@ This project uses deep learning to detect pneumonia in chest X-ray images. We le
   - `0`: No pneumonia
   - `1`: Pneumonia present
 
-## Installation
+## Reproduction Steps
 
 ### 1. Clone this repository
 ```bash
