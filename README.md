@@ -47,6 +47,7 @@ Download the following files from Kaggle using this link: https://www.kaggle.com
 - stage_2_train_images.zip
 - stage_2_test_images.zip
 - stage_2_train_labels.csv
+  
 Unzip the image folders into the root directory:
 ctrlalteliteproject3/
 ├── stage_2_train_images/
