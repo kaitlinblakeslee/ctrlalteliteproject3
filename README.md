@@ -53,18 +53,17 @@ ctrlalteliteproject3/
 ├── stage_2_train_images/
 ├── stage_2_test_images/
 ├── stage_2_train_labels.csv
-├── 01_EDA.ipynb
-├── 02_Modeling_Pneumonia_Detection.ipynb
-├── requirements.txt
+├── FinalEDA.ipynb
+├── FinalAnalysisP3M3.ipynb
 └── README.md
 
 ### 4. Run Analysis Notebooks
 1) FinalEDA.ipynb – for exploratory data analysis
-2) FinalAnalysis.ipynb – for model training and evaluation
+2) FinalAnalysisP3M3.ipynb – for model training and evaluation
 
 ### 5. Evaluation Metric
-- OUTPUT folder has EDA plots, data dictionary, and visualizations from model results
-- Accuracy
+- OUTPUT folder has EDA plots, data dictionary, classification csv from model, and visualizations from model results
+- Overall Accuracy
 
 ### 6. Acknowledgements
 - RSNA and Kaggle for the dataset
