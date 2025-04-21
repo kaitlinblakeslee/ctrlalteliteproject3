@@ -44,15 +44,18 @@ jupyter
 ```
 ### 3. Download Data
 Download the following files from Kaggle using this link: https://www.kaggle.com/competitions/rsna-pneumonia-detection-challenge/overview
+(the CSVs are also included within the DATA folder)
 - stage_2_train_images.zip
 - stage_2_test_images.zip
 - stage_2_train_labels.csv
+- stage_2_detailed_class_info.csv
   
 Unzip the image folders into the root directory:
 ctrlalteliteproject3/
 ├── stage_2_train_images/
 ├── stage_2_test_images/
 ├── stage_2_train_labels.csv
+├── stage_2_detailed_class_info.csv
 ├── FinalEDA.ipynb
 ├── FinalAnalysisP3M3.ipynb
 └── README.md
