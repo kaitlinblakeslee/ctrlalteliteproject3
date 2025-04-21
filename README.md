@@ -43,7 +43,7 @@ opencv-python
 jupyter
 ```
 ### 3. Download Data
-Download the following files from Kaggle:
+Download the following files from Kaggle using this link: https://www.kaggle.com/competitions/rsna-pneumonia-detection-challenge/overview
 - stage_2_train_images.zip
 - stage_2_test_images.zip
 - stage_2_train_labels.csv
@@ -58,7 +58,7 @@ ctrlalteliteproject3/
 └── README.md
 
 ### 4. Run Analysis Notebooks
-1) 01_EDA.ipynb – for exploratory data analysis
+1) P3EDA.ipynb – for exploratory data analysis
 2) 02_Modeling_Pneumonia_Detection.ipynb – for model training and evaluation
 
 ### 5. Evaluation Metric
